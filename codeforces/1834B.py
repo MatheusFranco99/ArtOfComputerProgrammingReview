@@ -1,8 +1,5 @@
 
 
-def funcao_que_esqueci_de_remover() -> None:
-    pass
-
 def solve_case(l: str, r: str) -> int:
     if len(l) < len(r):
             # if:
